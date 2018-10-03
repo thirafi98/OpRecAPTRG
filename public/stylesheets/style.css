@@ -1,0 +1,25 @@
+a:link {
+    color: black;
+}
+
+a:hover {
+  color: #00B7FF;
+}
+
+footer {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1.5rem;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+.turun {
+	padding-top: 2px;
+}
+
+.mepettengah {
+	padding-right: 10px;
+	padding-left: 10px;
+}

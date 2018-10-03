@@ -1,0 +1,16 @@
+{
+  "Peserta" : {
+    "user1" : {
+      "NIM" : "1301164069",
+      "nama" : "Thirafi Wian" 
+    },
+    "user2" : {
+      "NIM" : "1301164070",
+      "nama" : "Wianoski" 
+    },
+    "user3" : {
+      "NIM" : "1301164071",
+      "nama" : "Wianoskiii" 
+    }
+  }
+}
