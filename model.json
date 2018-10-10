@@ -1,16 +1,192 @@
 {
   "Peserta" : {
     "user1" : {
-      "NIM" : "1301164069",
-      "nama" : "Thirafi Wian" 
-    },
+      "NIM" : "1101184032",
+      "nama" : "Rissa Mellani N.W" 
+    } ,
     "user2" : {
-      "NIM" : "1301164070",
-      "nama" : "Wianoski" 
+      "NIM" : "1102174088",
+      "nama" : "Petrick Mikhael .S" 
     },
     "user3" : {
-      "NIM" : "1301164071",
-      "nama" : "Wianoskiii" 
+      "NIM" : "1102170021",
+      "nama" : "Juan Aldo .H" 
+    },
+    "user4" : {
+      "NIM" : "1102170264",
+      "nama" : "M. Putera Timmy R" 
+    },
+    "user5" : {
+      "NIM" : "1401174010",
+      "nama" : "Syahrul Robbiansyah Ramadhani" 
+    },
+    "user6" : {
+      "NIM" : "1102184086",
+      "nama" : "Rafif Rizqullah" 
+    },
+    "user7" : {
+      "NIM" : "1102184078",
+      "nama" : "Akhmad Ichwan Kurniawan" 
+    },
+    "user8" : {
+      "NIM" : "1101184163",
+      "nama" : "M. Yusuf Fatkurrohman" 
+    },
+    "user9" : {
+      "NIM" : "1101184207",
+      "nama" : "Ikhsanico Hendrapratama" 
+    },
+    "user10" : {
+      "NIM" : "1402184186",
+      "nama" : "Bella Angraini" 
+    },
+    "user11" : {
+      "NIM" : "1102184031",
+      "nama" : "Averina Fidelia Aqhiilah Dizaramadhani" 
+    },
+    "user12" : {
+      "NIM" : "1104183084",
+      "nama" : "Shaina Diva" 
+    },
+    "user13" : {
+      "NIM" : "1101170116",
+      "nama" : "Muhammad Dzaky Ivansyah" 
+    },
+    "user14" : {
+      "NIM" : "1101184132",
+      "nama" : "Akhdan Kurniadi" 
+    },
+    "user15" : {
+      "NIM" : "1102184120",
+      "nama" : "Hasna Syakira" 
+    },
+    "user16" : {
+      "NIM" : "1301180353",
+      "nama" : "Jordi Yaputra" 
+    },
+    "user17" : {
+      "NIM" : "1102180159",
+      "nama" : "Reviandi Naufal Kurniawan"        
+    },
+    "user18" : {
+      "NIM" : "1303174004",
+      "nama" : "Afdhal Syamdiwita Setiawan" 
+    },
+    "user19" : {
+      "NIM" : "1103184082",
+      "nama" : "Devid Alfian" 
+    },
+    "user20" : {
+      "NIM" : "1102184030",
+      "nama" : "Kenneth Angelo" 
+    },
+    "user21" : {
+      "NIM" : "1102180268",
+      "nama" : "Carlo Anthony. B" 
+    },
+    "user22" : {
+      "NIM" : "1103180147",
+      "nama" : "Fathoni W.J" 
+    },
+    "user23" : {
+      "NIM" : "1101184205",
+      "nama" : "Farhan Ramandheo Dwinanda Pitdri" 
+    },
+    "user24" : {
+      "NIM" : "Dikry Ikhwanuddin",
+      "nama" : "1101184090" 
+    },
+    "user25" : {
+      "NIM" : "1102184185",
+      "nama" : "Teguh Pramudika Akhsanul Iman" 
+    },
+    "user26" : {
+      "NIM" : "1102181075",
+      "nama" : "Felix" 
+    },
+    "user27" : {
+      "NIM" : "1104184015",
+      "nama" : "Sadam Bagus Saputra" 
+    },
+    "user28" : {
+      "NIM" : "1104184042",
+      "nama" : "Adilla Kusumadiyani Sasongko" 
+    },
+    "user29" : {
+      "NIM" : "1104184021",
+      "nama" : "Riica Isma Ariij" 
+    },
+    "user30" : {
+      "NIM" : "1101184212",
+      "nama" : "Rayhani Siti Nur Azizah" 
+    },
+    "user31" : {
+      "NIM" : "1101184329",
+      "nama" : "Faishal Daffa " 
+    },
+    "user32" : {
+      "NIM" : "1102170150",
+      "nama" : "Sang Made Sedana Yoga" 
+    },
+    "user33" : {
+      "NIM" : "1102180182",
+      "nama" : "Wiratama Abisatya" 
+    },
+    "user34" : {
+      "NIM" : "1401181613",
+      "nama" : "M. Rahadyan Dika Adji" 
+    },
+    "user35 " : {
+      "NIM" : "1101181014",
+      "nama" : "M. Faiq Rofifi" 
+    },
+    "user36" : {
+      "NIM" : "1102173014",
+      "nama" : "Dito Nursyahbani" 
+    },
+    "user37" : {
+      "NIM" : "1102160006",
+      "nama" : "Daffa Faiz " 
+    },
+    "user38" : {
+      "NIM" : "1103174230",
+      "nama" : "Dwiki Rahman" 
+    },
+    "user39" : {
+      "NIM" : "1102180193",
+      "nama" : "Yusuf Hamzah Ruhiyat" 
+    },
+    "user40" : {
+      "NIM" : "1102174242",
+      "nama" : "Alfi Abdurrahman Addachil" 
+    },
+    "user41" : {
+      "NIM" : "1102174210",
+      "nama" : "Hanif Rizky H" 
+    },
+    "user42" : {
+      "NIM" : "1102180043",
+      "nama" : "Faizal Kusuma Rizki" 
+    },
+    "user43" : {
+      "NIM" : "1104174142",
+      "nama" : "Andi Ainun Jaria" 
+    },
+    "user44" : {
+      "NIM" : "1102170078",
+      "nama" : "Gded Ilham R" 
+    },
+    "user45" : {
+      "NIM" : "1301180158",
+      "nama" : "Muhammad Aqmal Pangesu" 
+    },
+    "user46" : {
+      "NIM" : "6705180062",
+      "nama" : "I Gusti Ngurah Bagus" 
+    },
+    "user47" : {
+      "NIM" : "1601184286",
+      "nama" : "Cecep M. Amandoko" 
     }
   }
 }
