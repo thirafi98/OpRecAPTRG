@@ -93,8 +93,8 @@
       "nama" : "Farhan Ramandheo Dwinanda Pitdri" 
     },
     "user24" : {
-      "NIM" : "Dikry Ikhwanuddin",
-      "nama" : "1101184090" 
+      "NIM" : "1101184090",
+      "nama" : "Dikry Ikhwanuddin" 
     },
     "user25" : {
       "NIM" : "1102184185",
@@ -187,6 +187,86 @@
     "user47" : {
       "NIM" : "1601184286",
       "nama" : "Cecep M. Amandoko" 
+    },
+    "user48" : {
+      "NIM" : "1102180172",
+      "nama" : "Muhammad Abdul Ghofar" 
+    },
+    "user49" : {
+      "NIM" : "1101184066",
+      "nama" : "Nabila Herman" 
+    },
+    "user50" : {
+      "NIM" : "6706184087",
+      "nama" : "Restu Ananda Saputra" 
+    },
+    "user51" : {
+      "NIM" : "6706181079",
+      "nama" : "M Fathin Fawwaz Ammar" 
+    },
+    "user52" : {
+      "NIM" : "1101180479",
+      "nama" : "Mhd Ikhwan Khalid Nst" 
+    },
+    "user53" : {
+      "NIM" : "6705180070",
+      "nama" : "Rofi Rezkin" 
+    },
+    "user54" : {
+      "NIM" : "1101180197",
+      "nama" : "Muhammad Buushin" 
+    },
+    "user55" : {
+      "NIM" : "1101184193",
+      "nama" : "Joseph Bagas Prakosa" 
+    },
+    "user56" : {
+      "NIM" : "1101184125",
+      "nama" : "Ignatio Chriesma Diba Sanggiantara" 
+    },
+    "user57" : {
+      "NIM" : "1103174296",
+      "nama" : "Fauzi" 
+    },
+    "user58" : {
+      "NIM" : "1104181099",
+      "nama" : "Waode Shelly Adinda" 
+    },
+    "user59" : {
+      "NIM" : "1602184110",
+      "nama" : "M. Alfian A.C" 
+    },
+    "user60" : {
+      "NIM" : "1104184111",
+      "nama" : "Mutiara Fadillah K" 
+    },
+    "user61" : {
+      "NIM" : "1102170203",
+      "nama" : "Muhammad Hadiidtyariangga" 
+    },
+    "user62" : {
+      "NIM" : "1104184003",
+      "nama" : "Tania Arsyat Syahara" 
+    },
+    "user63" : {
+      "NIM" : "1101170454",
+      "nama" : "Reyhan Kennard Abdall" 
+    },
+    "user64" : {
+      "NIM" : "1104183011",
+      "nama" : "Prayander Sahatma.S" 
+    },
+    "user65" : {
+      "NIM" : "1201184234",
+      "nama" : "Muhammad Ariq Darmawan" 
+    },
+    "user66" : {
+      "NIM" : "1102170089",
+      "nama" : "Raka Luthfi" 
+    },
+    "user67" : {
+      "NIM" : "1102174070",
+      "nama" : "Naufal Syafiqurahman" 
     }
   }
 }
